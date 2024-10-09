@@ -9,7 +9,7 @@
   <section>
     <h2>🚀 Projects</h2>
     <ul>
-      <li><a href="https://github.com/nmshd/backbone">NMSHD/Backbone</a>: <a href="https://enmeshed.eu/">Enmeshed</a> is an open source project under <a href="https://github.com/js-soft">j&s-soft GmbH</a> that focuses on combining various assets into an overarching
+      <li><a href="https://enmeshed.eu/">Enmeshed</a>: Enmeshed is an open source project under <a href="https://www.js-soft.com/en/">j&s-soft GmbH</a> that focuses on combining various assets into an overarching
 digitalization approach for users and organizations. Its overall goal is to introduce a secure but easy-to-use way to share and request
 data and digital signatures between contacts</li>
 <li>
