@@ -33,7 +33,7 @@ data and digital signatures between contacts</li>
   <section>
     <h2>🚴‍♂️💪 Beyond Code</h2>
     <p>
-      When I'm not coding, you can find me in <code>isCold ? "Gym" : "one of Novi Sad's Street Workout parks"</code> pursuing my fitness goals. I love to improve my skills in the German language - what's your Duolingo streak, by the way? :) I also contribute to the <a href="https://nsbi.org.rs/en">Novi Sad Cycling Initiative</a> and enjoy solving <a href="https://en.wikipedia.org/wiki/Speedcubing">Rubik’s Cube</a> in my free time
+      When I'm not coding, you can find me in <code>isCold ? "Gym" : "one of Street Workout parks"</code> pursuing my fitness goals. I love to improve my skills in the German language - what's your Duolingo streak, by the way? :) I also contribute to the <a href="https://nsbi.org.rs/en">Novi Sad Cycling Initiative</a> and enjoy solving <a href="https://en.wikipedia.org/wiki/Speedcubing">Rubik’s Cube</a> in my free time
     </p>
   </section>
 </div>
