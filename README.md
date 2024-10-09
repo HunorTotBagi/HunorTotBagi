@@ -11,7 +11,7 @@ I hold a **Master’s degree in Applied Mathematics**, but my passion for proble
 - **IDEs**: Visual Studio, Eclipse, VS Code, Jupyter Notebook
 
 🚀 Projects
-- [NMSHD/Backbone](https://github.com/nmshd/backbone): Open-source project under (j&s-soft GmbH)[https://github.com/js-soft] that focuses on secure, user-friendly digitalization solutions, combining various assets for users and organizations.
+- [NMSHD/Backbone](https://github.com/nmshd/backbone): Open-source project under [j&s-soft GmbH](https://github.com/js-soft) that focuses on secure, user-friendly digitalization solutions, combining various assets for users and organizations.
 - [School Management System](https://github.com/HunorTotBagi/school-management-system): 
 - [Sodhara](https://nikolavetnic.itch.io/sodhara): A retro sci-fi action platformer inspired by Super Metroid, built in Unity. I actively contribute to QA, level design, and overall feature improvements.
 
