@@ -1,36 +1,32 @@
-## Hi, I'm Hunor 👋
+<div>
+  <section>
+    <h1>Hi, I'm Hunor 👋</h1>
+    <p>
+      I hold a <strong>Master’s degree in Applied Mathematics</strong>, but my passion for problem-solving led me to the world of <strong>Software Development</strong>. I love working with technologies like C#, .NET, Java, Python. My passion lies in <strong>Backend Development</strong> where I enjoy solving complex problems through code. I’m always eager to learn something new and explore the latest trends.
+    </p>
+  </section>
 
-I hold a **Master’s degree in Applied Mathematics**, but my passion for problem-solving led me to the world of **Software Development**. I love working with technologies like C#, .NET, Java, Python, and my passion lies in backend development where I enjoy solving complex problems through code. I’m always eager to learn something new and explore the latest trends.
+  <section>
+    <h2>🚀 Projects</h2>
+    <ul>
+      <li><a href="https://github.com/nmshd/backbone">NMSHD/Backbone</a>: Open-source project under <a href="https://github.com/js-soft">j&s-soft GmbH</a> that focuses on secure, user-friendly digitalization solutions, combining various assets for users and organizations.</li>
+      <li><a href="https://github.com/HunorTotBagi/school-management-system">School Management System</a></li>
+      <li><a href="https://nikolavetnic.itch.io/sodhara">Sodhara</a>: A retro sci-fi action platformer inspired by Super Metroid, built in Unity. I actively contribute to QA, level design, and overall feature improvements.</li>
+    </ul>
+  </section>
 
-🔧 Technologies & Skills
-- **Languages**: C#, Java, Python, JavaScript
-- **Frameworks & Tools**: .NET Core, ASP.NET, Spring, Hibernate, React, Unity
-- **Databases**: SQL, MySQL, PostgreSQL
-- **Other Tools**: Docker, REST APIs, CI/CD, Git, Postman, Insomnia
-- **Operating Systems**: Windows, Linux
-- **IDEs**: Visual Studio, Eclipse, VS Code, Jupyter Notebook
+  <section>
+    <h2>🔧 Technologies, Skills & Tools</h2>
+    <div>
+      <img src="https://skillicons.dev/icons?i=cs,java,py,js,dotnet,spring,hibernate,react,unity,mysql,postgres" />
+      <img src="https://skillicons.dev/icons?i=docker,git,postman,windows,linux,visualstudio,vscode,eclipse,html,css" />
+    </div>
+  </section>
 
-🚀 Projects
-- [NMSHD/Backbone](https://github.com/nmshd/backbone): Open-source project under [j&s-soft GmbH](https://github.com/js-soft) that focuses on secure, user-friendly digitalization solutions, combining various assets for users and organizations.
-- [School Management System](https://github.com/HunorTotBagi/school-management-system): 
-- [Sodhara](https://nikolavetnic.itch.io/sodhara): A retro sci-fi action platformer inspired by Super Metroid, built in Unity. I actively contribute to QA, level design, and overall feature improvements.
-
-
-🚴‍♂️ Beyond Code
-- When I'm not coding, you can find me contributing to the Novi Sad Cycling Initiative, solving Rubik’s Cubes, or working on game development projects. I’m also passionate about street workouts and learning new languages like German and Spanish.
-
-
-<!--
-**HunorTotBagi/HunorTotBagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <section>
+    <h2>🚴‍♂️💪 Beyond Code</h2>
+    <p>
+      When I'm not coding, you can find me contributing to the <a href="https://nsbi.org.rs/en">Novi Sad Cycling Initiative</a>, solving <a href="https://en.wikipedia.org/wiki/Speedcubing">Rubik’s Cubes</a>. I'm also passionate about <a href="https://en.wikipedia.org/wiki/Street_workout">Street Workout</a> and improving my skills in German language. Btw, what is your streak on Duolingo? :)
+    </p>
+  </section>
+</div>
