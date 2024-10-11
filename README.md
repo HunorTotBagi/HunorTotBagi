@@ -1,9 +1,9 @@
 <div>
   <section>
     <h1>Hi, I'm Hunor 👋</h1>
-    <p>
-      I hold a <strong>Master’s degree in Applied Mathematics</strong>, but my passion for problem-solving led me to the world of <strong>Software Development</strong>. I love working with technologies like C#, .NET, Java, Python. My passion lies in <strong>Backend Development</strong> where I enjoy solving complex problems through code. I’m always eager to learn something new and explore the latest trends.
-    </p>
+      <p>
+        I hold a <strong>Master’s degree in Applied Mathematics</strong>, but my passion for problem-solving led me to the world of <strong>Software Development</strong>. I love writing code in <strong>C#, Java, and Python</strong>. My area of interest lies in <strong>Backend Development</strong>, where I enjoy solving problems through code. I’m always eager to learn something new and explore the latest trends.
+      </p>
   </section>
 
   <section>
@@ -12,10 +12,11 @@
       <li><a href="https://enmeshed.eu/">Enmeshed</a>: Enmeshed is an open source project under <a href="https://www.js-soft.com/en/">j&s-soft GmbH</a> that focuses on combining various assets into an overarching
 digitalization approach for users and organizations. Its overall goal is to introduce a secure but easy-to-use way to share and request
 data and digital signatures between contacts</li>
+        <br>
 <li>
     <a href="https://github.com/HunorTotBagi/school-management-system">School Management System</a>: This project is the end result of a nine-month Full-Stack Web Development Training Program, organized by the 
-    <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> in collaboration with the Government of AP Vojvodina's Secretariat for Economy and Tourism. The <strong>backend</strong> part is actively maintained and continuously updated to incorporate the latest trends
-</li>
+    <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> in collaboration with the Government of AP Vojvodina's Secretariat for Economy and Tourism. The <strong>backend</strong> part is actively maintained and continuously updated to incorporate the latest trends  
+</li><br>
 
   <li><a href="https://nikolavetnic.itch.io/sodhara">Sodhara</a>: Sodhara is a retro sci-fi action platformer, actively developed by <a href="https://github.com/NikolaVetnic">Nikola Vetnić</a> and me, inspired by the SNES classic Super Metroid. I play a key role in QA, leading feature improvements, addressing & fixing minor bugs and refining level design to ensure the game is polished and provides an engaging experience
 </li>
