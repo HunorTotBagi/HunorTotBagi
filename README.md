@@ -9,7 +9,7 @@
   <section>
     <h2>🚀 Projects</h2>
     <ul>
-      <li><a href="https://enmeshed.eu/">Enmeshed</a>: Enmeshed is an open source project developed <a href="https://www.js-soft.com/en/">j&s-soft GmbH</a> that focuses on combining various assets into an overarching
+      <li><a href="https://enmeshed.eu/">Enmeshed</a>: An open source project developed <a href="https://www.js-soft.com/en/">j&s-soft GmbH</a> that focuses on combining various assets into an overarching
 digitalization approach for users and organizations. Its overall goal is to introduce a secure but easy-to-use way to share and request
 data and digital signatures between contacts</li>
         <br>
@@ -18,7 +18,7 @@ data and digital signatures between contacts</li>
     <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> in collaboration with the Government of AP Vojvodina's Secretariat for Economy and Tourism. The backend is actively maintained and continuously updated to integrate the latest trends
 </li><br>
 
-  <li><a href="https://nikolavetnic.itch.io/sodhara">Sodhara</a>: Sodhara is a retro sci-fi action platformer, actively developed by <a href="https://github.com/NikolaVetnic">Nikola Vetnić</a> and me, inspired by the SNES classic Super Metroid. I play a key role in QA, leading feature improvements, addressing & fixing minor bugs and refining level design to ensure the game is polished and provides an engaging experience
+  <li><a href="https://nikolavetnic.itch.io/sodhara">Sodhara</a>: A retro sci-fi action platformer, actively developed by <a href="https://github.com/NikolaVetnic">Nikola Vetnić</a> and me, inspired by the SNES classic Super Metroid. I play a key role in QA, leading feature improvements, addressing & fixing minor bugs and refining level design to ensure the game is polished and provides an engaging experience
 </li>
     </ul>
   </section>
