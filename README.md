@@ -18,7 +18,7 @@ data and digital signatures between contacts</li>
     <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> in collaboration with the Government of AP Vojvodina's Secretariat for Economy and Tourism. The backend is actively maintained and continuously updated to integrate the latest trends
 </li><br>
 
-  <li><a href="https://nikolavetnic.itch.io/sodhara">Sodhara</a>: A retro sci-fi action platformer, actively developed by <a href="https://github.com/NikolaVetnic">Nikola Vetnić</a> and me, inspired by the SNES classic Super Metroid. I play a key role in QA, leading feature improvements, addressing & fixing minor bugs and refining level design to ensure the game is polished and provides an engaging experience
+  <li><a href="https://nikolavetnic.itch.io/sodhara">Sodhara</a>: An actively developed retro sci-fi action platformer inspired by the SNES classic Super Metroid. I play a key role in QA, leading feature improvements, addressing minor bugs, and refining level design to ensure the game is polished and provides an engaging experience
 </li>
     </ul>
   </section>
