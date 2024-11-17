@@ -15,7 +15,7 @@ data and digital signatures between contacts</li>
         <br>
 <li>
     <a href="https://github.com/HunorTotBagi/school-management-system">School Management System</a>: This project is the end result of a nine-month Full-Stack Web Development Training Program, organized by the 
-    <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> in collaboration with the Government of AP Vojvodina's Secretariat for Economy and Tourism. The backend is actively maintained and continuously updated to integrate the latest trends
+    <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> in collaboration with the Government of AP Vojvodina's Secretariat for Economy and Tourism
 </li><br>
 
   <li><a href="https://sodhara.com">Sodhara</a>: An actively developed retro sci-fi action platformer inspired by the SNES classic Super Metroid. I play a key role in QA, leading feature improvements, addressing minor bugs, and refining level design to ensure the game is polished and provides an engaging experience
