@@ -2,7 +2,7 @@
   <section>
     <h1>Hi, I'm Hunor 👋</h1>
       <p>
-        I hold a <strong>Master's degree</strong> in Applied Mathematics, but my passion for problem-solving led me to the world of <strong>Software Development</strong>. I enjoy writing code in <strong>C#, Java, and Python</strong> with a particular interest in <strong>Backend Development</strong>. I'm always eager to learn new things, explore the latest trends and I am currently learning about microservice architecture.
+        I hold a <strong>Master's degree</strong> in Applied Mathematics, but my passion for problem-solving led me to the world of <strong>Software Development</strong>. I enjoy writing code in <strong>C#, Java, and Python</strong> with a particular interest in <strong>Backend Development</strong>. I'm always eager to learn new things, explore the latest trends and I am currently learning about microservice architecture
       </p>
   </section>
 
