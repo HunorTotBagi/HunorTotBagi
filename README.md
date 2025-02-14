@@ -34,7 +34,7 @@ data and digital signatures between contacts</li>
   <section>
     <h2>🚴‍♂️💪 Beyond Coding</h2>
     <p>
-      When I'm not coding, you can find me in <code>isCold ? "Gym" : "Street Workout park"</code> pursuing my fitness goals. Moreover, I love to improve my ability to speak German - btw, what's your streak on Duolingo? :) I actively volunteer with the <a href="https://nsbi.org.rs/en">Novi Sad Cycling Initiative</a> and in my free time I enjoy <a href="https://en.wikipedia.org/wiki/Speedcubing">speedcubing</a>
+      When I'm not coding, you can find me in <code>isCold ? "Gym" : "Street Workout park"</code> pursuing my fitness goals. Moreover, I love to learn new languages. At the moment that is German and Norwegian - btw, what's your streak on Duolingo? :) I actively volunteer with the <a href="https://nsbi.org.rs/en">Novi Sad Cycling Initiative</a> and in my free time I enjoy <a href="https://en.wikipedia.org/wiki/Speedcubing">speedcubing</a>
     </p>
   </section>
 </div>
