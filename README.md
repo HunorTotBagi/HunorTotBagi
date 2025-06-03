@@ -17,7 +17,7 @@ A modular system that enables secure and user-friendly data exchange and digital
       <li>
         📚 <a href="https://github.com/NikolaVetnic/Timelines/tree/main/Backend">Timelines</a> - Open Source @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a>
         
-An internal platform tailored for legal professionals to streamline workflows. I play a key role in backend development: shaping architecture, implementing complex business logic, and supporting seamless inter-service communication using Clean Architecture and Minimal APIs.
+An internal platform tailored for legal professionals to streamline workflows. I play a key role in <a href="https://github.com/NikolaVetnic/Timelines/pulls?q=is%3Apr+is%3Aclosed+author%3AHunorTotBagi">backend development</a>: shaping architecture, implementing complex business logic, and supporting seamless inter-service communication using Clean Architecture and Minimal APIs.
       </li>
       <li>
         🏫 <a href="https://github.com/HunorTotBagi/school-management-system">School Management System</a> - Capstone Project
