@@ -13,17 +13,17 @@
         🔗 <a href="https://enmeshed.eu/">Enmeshed</a> - Open Source @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a>
         
 A modular system that enables secure and user-friendly data exchange and digital signature workflows between individuals and organizations. I contributed to <a href="https://github.com/nmshd/backbone/pulls?q=is%3Apr+is%3Aclosed+author%3AHunorTotBagi">backend development</a> focusing on integration logic, privacy-by-design features, and API enhancements.
-      </li><br>
+      </li>
       <li>
-        📚 <a href="https://github.com/NikolaVetnic/Timelines/tree/main/Backend">Timelines</a> - Internal Tool @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a>
+        📚 <a href="https://github.com/NikolaVetnic/Timelines/tree/main/Backend">Timelines</a> - Open Source @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a>
         
 An internal platform tailored for legal professionals to streamline workflows. I play a key role in backend development: shaping architecture, implementing complex business logic, and supporting seamless inter-service communication using Clean Architecture and Minimal APIs.
-      </li><br>
+      </li>
       <li>
         🏫 <a href="https://github.com/HunorTotBagi/school-management-system">School Management System</a> - Capstone Project
         
 Developed during a 9-month Full-Stack Web Development Bootcamp organized by   <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> and the Government of AP Vojvodina. Built with a Java backend and React frontend, it includes modules for scheduling, student management, and analytics.
-      </li><br>
+      </li>
       <li>
         🎮 <a href="https://sodhara.com">Sodhara</a> - Indie Game in Development
         
