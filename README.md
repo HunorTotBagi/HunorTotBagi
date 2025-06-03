@@ -2,7 +2,7 @@
   <section>
     <h1>Hi, I'm Hunor 👋</h1>
     <p>
-      I hold a <strong>Master's degree</strong> in Applied Mathematics, but my passion for problem-solving led me to the world of <strong>Software Development</strong>. I enjoy writing code in <strong>C#, Java, and Python</strong> with a particular interest in <strong>Backend Development</strong>. I'm always eager to learn new things, explore the latest trends.
+      I hold a <strong>Master's degree</strong> in <strong>Applied Mathematics</strong>, but my passion for problem-solving led me to the world of <strong>Software Development</strong>. With hands-on experience in <strong>C#</strong>, <strong>Java</strong>, and <strong>Python</strong>, I specialize in <strong>Backend Development</strong> and I am driven by clean architecture, continuous learning, and a strong focus on writing clean, maintainable code.
     </p>
   </section>
 
@@ -10,18 +10,24 @@
     <h2>🚀 Projects</h2>
     <ul>
       <li>
-        <a href="https://enmeshed.eu/">Enmeshed</a>: An open source project developed 
-        <a href="https://www.js-soft.com/en/">j&s-soft AG</a> that focuses on combining various assets into an overarching digitalization approach for users and organizations. Its overall goal is to introduce a secure but easy-to-use way to share and request data and digital signatures between contacts
+        🔗 <a href="https://enmeshed.eu/">Enmeshed</a> - Open Source @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a>
+        
+A modular system that enables secure and user-friendly data exchange and digital signature workflows between individuals and organizations. I contributed to <a href="https://github.com/nmshd/backbone/pulls?q=is%3Apr+is%3Aclosed+author%3AHunorTotBagi">backend development</a> focusing on integration logic, privacy-by-design features, and API enhancements.
       </li><br>
       <li>
-        <a href="https://github.com/NikolaVetnic/Timelines/tree/main/Backend">Timelines</a>: An internal project at j&s-soft AG aimed at simplifying and optimizing the workflows of legal professionals. I play a key role in the backend development, contributing to the system’s overall architecture, ensuring efficient data management, implementing robust business logic and supporting seamless communication between services
+        📚 <a href="https://github.com/NikolaVetnic/Timelines/tree/main/Backend">Timelines</a> - Internal Tool @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a>
+        
+An internal platform tailored for legal professionals to streamline workflows. I play a key role in backend development: shaping architecture, implementing complex business logic, and supporting seamless inter-service communication using Clean Architecture and Minimal APIs.
       </li><br>
       <li>
-        <a href="https://github.com/HunorTotBagi/school-management-system">School Management System</a>: This project is the end result of a nine-month Full-Stack Web Development Training Program, organized by the 
-        <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> in collaboration with the Government of AP Vojvodina's Secretariat for Economy and Tourism
+        🏫 <a href="https://github.com/HunorTotBagi/school-management-system">School Management System</a> - Capstone Project
+        
+Developed during a 9-month Full-Stack Web Development Bootcamp organized by   <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> and the Government of AP Vojvodina. Built with a Java backend and React frontend, it includes modules for scheduling, student management, and analytics.
       </li><br>
       <li>
-        <a href="https://sodhara.com">Sodhara</a>: A retro sci-fi action platformer currently in active development, inspired by the SNES classic Super Metroid. I play a key role in quality assurance, leading feature enhancements, resolving minor bugs and refining level design to ensure a polished and immersive player experience.
+        🎮 <a href="https://sodhara.com">Sodhara</a> - Indie Game in Development
+        
+A retro sci-fi action platformer inspired by **Super Metroid** developed in **Unity**. I’m in charge of **QA**, **feature refinement**, **bug fixing**, and **level design** ensuring an immersive and polished experience.
       </li>
     </ul>
   </section>
@@ -37,7 +43,7 @@
   <section>
     <h2>🚴‍♂️💪 Beyond Coding</h2>
     <p>
-      When I'm not coding, you can find me in <code>isCold ? "Gym" : "Street Workout park"</code> pursuing my fitness goals. Moreover, I love to learn new languages. At the moment that is German and Spanish - btw, what's your streak on Duolingo? :)
+      When I'm not coding, you can find me in <code>isCold ? "Gym" : "Street Workout park"</code> pursuing my fitness goals. I also love languages, currently perfecting my German and learning Spanish. My Duolingo streak is going strong, what’s yours? 😉
     </p>
   </section>
 </div>
