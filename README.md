@@ -2,7 +2,7 @@
   <section>
     <h1>Hi, I'm Hunor 👋</h1>
     <p>
-      I hold a <strong>Master's degree</strong> in <strong>Applied Mathematics</strong>, but my passion for problem-solving led me to the world of <strong>Software Development</strong>. With hands-on experience in <strong>C#</strong> I specialize in <strong>Backend Development</strong>.
+      I hold a <strong>Master's degree</strong> in <strong>Applied Mathematics</strong>, but my passion for problem-solving led me to the world of <strong>Software Development</strong>. With hands-on experience in <strong>C#</strong> I specialize in <strong>Backend Development</strong>
     </p>
   </section>
 
@@ -17,7 +17,7 @@ A modular system that enables secure and user-friendly data exchange and digital
       <li>
         📚 <a href="https://timelines.js-soft.com/login">Timelines</a> - Commercial product @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a>
         
-A platform tailored for legal professionals to streamline workflows. I play a key role in <strong>backend development</strong>.
+A platform tailored for legal professionals to streamline workflows. I play a key role in <strong>backend development</strong>
       </li>
       <li>
         🏫 <a href="https://github.com/HunorTotBagi/school-management-system">School Management System</a> - Project from a Java & React course
