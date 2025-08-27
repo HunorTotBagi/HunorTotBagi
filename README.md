@@ -17,7 +17,7 @@ A modular system that enables secure and user-friendly data exchange and digital
       <li>
         📚 <a href="https://timelines.js-soft.com/login">Timelines</a> - Commercial product @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a>
         
-A platform tailored for legal professionals to streamline workflows. I play a key role in <strong>backend development</strong>
+A platform tailored for legal professionals to streamline workflows. I play a key role in <strong>Backend Development</strong>
       </li>
       <li>
         🏫 <a href="https://github.com/HunorTotBagi/school-management-system">School Management System</a> - Project from a Java & React course
@@ -35,8 +35,8 @@ A retro sci-fi action platformer inspired by **Super Metroid** developed in **Un
   <section>
     <h2>🔧 Technologies, Skills &amp; Tools</h2>
     <div>
-      <img src="https://skillicons.dev/icons?i=cs,java,py,js,dotnet,spring,hibernate,react,unity,mysql,postgres" alt="Technology icons" />
-      <img src="https://skillicons.dev/icons?i=docker,git,postman,windows,linux,visualstudio,vscode,eclipse,html,css" alt="Tool icons" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,postgres,mysql," alt="Technology icons" /><br></br>
+      <img src="https://skillicons.dev/icons?i=docker,git,postman,visualstudio,vscode,eclipse,html,css" alt="Tool icons" />
     </div>
   </section>
 
