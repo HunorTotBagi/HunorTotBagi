@@ -33,7 +33,7 @@
         Developed during a 9-month Full-Stack Web Development Bootcamp organized by <a href="https://vojvodinaictcluster.org/">Vojvodina ICT Cluster</a> and the Government of AP Vojvodina. Built with a Java backend and React frontend, it                includes modules for scheduling, student management, and analytics
       </li>
       <li> 🎮 <a href="https://sodhara.com">Sodhara</a> - Indie Game in Development<br/>
-      A retro sci-fi action platformer inspired by Super Metroid developed in Unity. I’m in charge of QA, feature refinement, bug fixing, and level design ensuring an immersive and polished experience - <a href="https://www.youtube.com/watch?v=G93-ELq64oc">Sodhara Gameplay v0.4.8<a> </li>
+      A retro sci-fi action platformer inspired by Super Metroid developed in Unity. I’m in charge of QA, feature refinement, bug fixing, and level design ensuring an immersive and polished experience - <a href="https://www.youtube.com/watch?v=AtyKzeHd0hg">SODHARA v0.4.8 Gameplay Footage<a> </li>
     </ul>
   </section>
 
@@ -44,25 +44,16 @@
       <li><strong>Architecture & Patterns:</strong> Clean Architecture, Domain Events, TDD</li>
       <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
       <li><strong>Tools & DevOps:</strong> Docker, GitHub Actions, CI/CD, Postman</li>
-      <li><strong>Testing:</strong> xUnit, Integration Testing, FluentValidation</li>
+      <li><strong>Testing:</strong> Integration Testing, TestContainers, xUnit, FluentValidation</li>
     </ul>
-  </section>
-
-  <section>
-    <h2>🤝 How I Work</h2>
-    <p>
-      Experienced in <strong>agile workflows</strong> (Scrum, Jira) and cross-team 
-      collaboration. I write clean, maintainable, and testable code with a focus 
-      on performance, scalability, and security.
-    </p>
   </section>
 
   <section>
     <h2>🚴💪 Beyond Coding</h2>
     <p>
       When I'm not coding, you can find me in <code>isCold ? "Gym" : "Street Workout park"</code>
-      pursuing my fitness goals. I also love languages, currently perfecting my German and learning 
-      Spanish. Btw what’s yours Duolingo streak? 😉
+      pursuing my fitness goals. I also love learning languages, currently perfecting my German and learning 
+      Russian. Btw what’s yours Duolingo streak? 😉
     </p>
   </section>
 
