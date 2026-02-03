@@ -2,10 +2,7 @@
   <section>
     <h1>Hi, I'm Hunor 👋</h1>
     <p>
-      <strong>.NET Backend Developer</strong> with professional experience in 
-      <strong>C#, ASP.NET Core, and Clean Architecture</strong>. I specialize in 
-      designing and implementing scalable APIs, database-driven applications, 
-      and privacy-first backend solutions. With a strong analytical foundation 
+      <strong>.NET Backend Engineer</strong> with 2 years of professional experience, working primarily with C#, ASP.NET Core, and Clean Architecture. I enjoy building scalable APIs and database-driven systems, with a strong focus on privacy-first backend solutions. With a strong analytical foundation 
       from my <strong>Master’s in Applied Mathematics</strong> I bring precision, 
       problem-solving and clean code practices to every project.
     </p>
@@ -21,7 +18,7 @@
         using <strong>C#/.NET</strong> and relational databases.
       </li>
       <li>
-        📚 <a href="https://timelines.js-soft.com/login">Timelines</a> - 
+        📚 <strong>Timelines</strong> - 
         Commercial Product @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a><br/>
         Backend developer for a platform streamlining legal workflows. 
         Enhanced API reliability, increated integration tests coverage by 100% using TestContainers
@@ -35,7 +32,7 @@
       </li>
       <li>
         🏆 <a href="https://tauriachievements.github.io/">Tauri Achievements</a> - Gaming Community Leaderboard & Statistics Platform<br/>
-        A modern World of Warcraft-style leaderboard for the <a href="https://tauriwow.com/">Tauri private server</a> with up-to-date rankings based on 
+        A modern World of Warcraft-style leaderboard for the <a href="https://tauriwow.com/">Tauri Private Server</a> with up-to-date rankings based on 
         achievement points and honorable kills featuring faction-aware styling and race/class iconography.
       </li>
       <li> 🎮 <a href="https://sodhara.com">Sodhara</a> - Indie Game in Development<br/>
