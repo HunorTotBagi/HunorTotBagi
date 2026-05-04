@@ -6,6 +6,9 @@
       from my <strong>Master’s in Applied Mathematics</strong> I bring precision, 
       problem-solving and clean code practices to every project.
     </p>
+    <p>
+      I am currently learning <a href=https://angular.dev/>Angular<a> as part of my transition toward becoming a full-stack developer.
+    </p>
   </section>
 
   <section>
