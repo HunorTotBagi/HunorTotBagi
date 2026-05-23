@@ -23,8 +23,7 @@
       <li>
         📚 <strong>Timelines</strong> - 
         Commercial Product @ <a href="https://www.js-soft.com/en/">j&s-soft AG</a><br/>
-        Backend developer for a platform streamlining legal workflows. 
-        Enhanced API reliability, increated integration tests coverage by 100% using TestContainers
+        Backend developer for a platform streamlining legal workflows.
       </li>
       <li>
         🔗 <a href="https://enmeshed.eu/">Enmeshed</a> - Open Source @ 
@@ -38,10 +37,7 @@
     <ul>
         <li>
           🏆 <a href="https://tauriachievements.github.io/">Tauri Achievements</a> - Community Leaderboard & Analytics Platform<br/>
-          A full-stack Angular + .NET platform that turns public MMO character data into searchable player rankings, guild statistics, rare-achievement tracking, and historical progression insights for the <a href="https://tauriwow.com/">Tauri WoW Private Server</a> community
-        </li>
-        <li> 🎮 <a href="https://sodhara.com">Sodhara</a> - Indie Game in Development<br/>
-        A retro sci-fi action platformer inspired by Super Metroid developed in Unity. I’m in charge of QA, feature refinement, bug fixing, and level design ensuring an immersive and polished experience - <a href="https://www.youtube.com/watch?v=AtyKzeHd0hg">SODHARA v0.4.8 Gameplay Footage<a>
+          A full-stack Angular + .NET platform that turns public World of Warcraft character data into searchable player rankings, guild statistics, rare-achievement tracking, and historical progression insights for the <a href="https://tauriwow.com/">Tauri WoW Private Server</a> community
         </li>
     </ul>
   </section>
@@ -68,9 +64,9 @@
   <section>
     <h2>🚴💪 Beyond Coding</h2>
     <p>
-      When I'm not coding you can find me in <code>isCold ? "Gym" : "Street Workout park"</code>
-      pursuing my fitness goals. I also love learning languages, currently perfecting my German and learning 
-      Spanish. Btw what's yours Duolingo streak? 😉
+      When I'm not coding, you can probably find me at <code>isCold ? "the gym" : "a street workout park"</code>
+      chasing my fitness goals. I also enjoy learning languages, currently improving my German and learning 
+      Russian. By the way, what's your Duolingo streak? 😉
     </p>
   </section>
 </div>
