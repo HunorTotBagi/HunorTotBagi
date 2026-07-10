@@ -2,7 +2,7 @@
   <section>
     <h1>Hi, I'm Hunor 👋</h1>
     <p>
-      <strong>.NET Backend Engineer</strong> with 2+ years of professional experience, working primarily with C#, ASP.NET Core, and Clean Architecture. I enjoy building scalable APIs and database-driven systems, with a strong focus on privacy-first backend solutions. With a strong analytical foundation 
+      <strong>.NET Backend Engineer</strong> with 3+ years of professional experience, working primarily with C#, ASP.NET Core, and Clean Architecture. I enjoy building scalable APIs and database-driven systems, with a strong focus on privacy-first backend solutions. With a strong analytical foundation 
       from my <strong>Master’s in Applied Mathematics</strong> I bring precision, 
       problem-solving and clean code practices to every project.
     </p>
