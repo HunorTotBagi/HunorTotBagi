@@ -37,7 +37,7 @@
     <ul>
         <li>
           🏆 <a href="https://tauriachievements.github.io/">Tauri Achievements</a> - Community Leaderboard & Analytics Platform<br/>
-          A full-stack Angular + .NET platform that turns public World of Warcraft character data into searchable player rankings, guild statistics, rare-achievement tracking, and historical progression insights for the <a href="https://tauriwow.com/">Tauri WoW Private Server</a> community
+          A full-stack Angular + .NET platform that transforms publicly available World of Warcraft character data into leaderboards and community-driven analytics. As a long time World of Warcraft player, I saw an opportunity to combine my passion for the game with my software engineering skills to build a platform that delivers insights, statistics, and discovery features beyond those available through the official Armory, creating additional value for the <a href="https://tauriwow.com/">Tauri WoW Private Server</a> community.
         </li>
     </ul>
   </section>
